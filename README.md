@@ -26,9 +26,11 @@ Successfully completed a controlled lab exercise to recover passwords from prote
 - Performed a dictionary attack on a locked PDF named `My Locked PDF1.pdf`.
 - Used `pdf2john` to extract the password hash and supplied it to the cracking engine.
 
-![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/f85c82594e52f5d2b1a1e3eaf4f5fa74380aa381/Screenshot%202026-11-20%20190711.png)
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/a4627b1d6115207974ea2bc9e5294af4cb0569de/Screenshot%202026-11-20%20184116.png)
+![image alt]()
+try Tool Training: NetworkWalks Hash Calculator & Cracker
 
-### B. Proprietary Tool Training: NetworkWalks Hash Calculator & Cracker
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/f85c82594e52f5d2b1a1e3eaf4f5fa74380aa381/Screenshot%202026-11-20%20190711.png)
 
 Used NetworkWalks’ internal web-based tools to perform a parallel password audit.
 
