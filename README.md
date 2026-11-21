@@ -52,14 +52,13 @@ Used NetworkWalks’ internal web-based tools to perform a parallel password aud
 ## 4. Challenges Faced & Solutions Implemented
 
 **Challenge:** Identifying the correct hash type for the PDF file was initially difficult.
-
+![image alt]()
 **Solution:** Used the auto-detect feature in the NetworkWalks Hash Calculator and cross-referenced the result with the John the Ripper output. This ensured that the cracking tool used the correct algorithm.
 
 ## 5. Goals for Week 4
 
 - Explore Active Directory Group Policy Objects used to enforce password complexity.
-- Learn how NetworkWalks’ managed security services detect brute-force login attempts in real time.
-- Continue handling Tier 1 tickets and apply this knowledge to educate users on password hygiene.
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/34ede1d6e441adf46fd43bd141b9e7c1d675e352/Screenshot%201.png)
 
 ## 6. Feedback / Questions for Mentor
 
