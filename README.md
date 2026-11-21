@@ -51,16 +51,27 @@ Used NetworkWalks’ internal web-based tools to perform a parallel password aud
 
 ## 4. Challenges Faced & Solutions Implemented
 
-**Challenge:** Identifying the correct hash type for the PDF file was initially difficult.
+**Challenge:** Identifying the correct hash type for the PDF file was easy.
 ![image alt]()
 **Solution:** Used the auto-detect feature in the NetworkWalks Hash Calculator and cross-referenced the result with the John the Ripper output. This ensured that the cracking tool used the correct algorithm.
 
-## 5. Goals for Week 4
+## 5. Goals for Week 3 Johnny the ripper 
 
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/a701d555c1ba35b2dc8e92ebba37e3a1f4081a87/Screenshot%201.png)
+
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/a701d555c1ba35b2dc8e92ebba37e3a1f4081a87/Screenshot%202.0.png
+)
+
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/a701d555c1ba35b2dc8e92ebba37e3a1f4081a87/Screenshot%202.png
+)
+
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/a701d555c1ba35b2dc8e92ebba37e3a1f4081a87/Screenshot%203.png)
+
+## 6. Goals for Week 3 networkwalk
 - Explore Active Directory Group Policy Objects used to enforce password complexity.
 ![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/34ede1d6e441adf46fd43bd141b9e7c1d675e352/Screenshot%201.png)
 
-## 6. Feedback / Questions for Mentor
+## 7. Feedback / Questions for Mentor
 
 - Are there additional internal NetworkWalks tools you recommend familiarizing myself with for security auditing?
 - How does NetworkWalks typically present password-cracking concepts to clients who resist changing their password habits?
