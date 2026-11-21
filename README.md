@@ -26,7 +26,7 @@ Successfully completed a controlled lab exercise to recover passwords from prote
 - Performed a dictionary attack on a locked PDF named `My Locked PDF1.pdf`.
 - Used `pdf2john` to extract the password hash and supplied it to the cracking engine.
 
-[image alt]()
+![image alt]()
 
 ### B. Proprietary Tool Training: NetworkWalks Hash Calculator & Cracker
 
