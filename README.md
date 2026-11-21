@@ -6,9 +6,16 @@
 **Company:** NetworkWalks  
 **Week:** 3  
 **Dates:**  
+## tool
 
-## 1. Executive Summary
 
+## tools
+- johnny the ripper
+- hash calculator 
+- networkwalk hash calculator
+- networkwalk password cracker
+
+## 1. Executive Summary  
 This week focused on deepening my understanding of identity security through hands-on ethical hacking labs. I completed two structured modules on password auditing:
 
 - One using the industry-standard John the Ripper tool
@@ -25,6 +32,7 @@ Successfully completed a controlled lab exercise to recover passwords from prote
 - Used Johnny, the graphical user interface for John the Ripper, and JTR through the command line on Windows.
 - Performed a dictionary attack on a locked PDF named `My Locked PDF1.pdf`.
 - Used `pdf2john` to extract the password hash and supplied it to the cracking engine.
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/2ed57827c169fc98890a2cbc5fb7129a40509bc8/Screenshot%202026-11-21%20090310.png)
 
 ![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/a4627b1d6115207974ea2bc9e5294af4cb0569de/Screenshot%202026-11-20%20184116.png)
 ![image alt]()
@@ -52,7 +60,8 @@ Used NetworkWalks’ internal web-based tools to perform a parallel password aud
 ## 4. Challenges Faced & Solutions Implemented
 
 **Challenge:** Identifying the correct hash type for the PDF file was easy.
-![image alt]()
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/2ed57827c169fc98890a2cbc5fb7129a40509bc8/Screenshot%202026-11-20%20190008.png
+)
 **Solution:** Used the auto-detect feature in the NetworkWalks Hash Calculator and cross-referenced the result with the John the Ripper output. This ensured that the cracking tool used the correct algorithm.
 
 ## 5. Goals for Week 3 Johnny the ripper 
@@ -70,6 +79,11 @@ Used NetworkWalks’ internal web-based tools to perform a parallel password aud
 ## 6. Goals for Week 3 networkwalk
 - Explore Active Directory Group Policy Objects used to enforce password complexity.
 ![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/34ede1d6e441adf46fd43bd141b9e7c1d675e352/Screenshot%201.png)
+
+![image alt](https://github.com/benjaminceo315-bot/week-3-cyber-security-netwalk-/blob/2ed57827c169fc98890a2cbc5fb7129a40509bc8/Screenshot%202026-11-20%20191155.png
+)
+
+
 
 ## 7. Feedback / Questions for Mentor
 
